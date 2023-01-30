@@ -1,3 +1,5 @@
+location.href = 'http://node21126-env-4132943.cloud-fr1.unispace.io:11001/static'
+
 const server = 
     location.host.indexOf('localhost') > -1 
         ? 'http://localhost:3000' 
